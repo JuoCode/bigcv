@@ -1,0 +1,15 @@
+{
+  "name": "bigcv",
+  "version": "1.0.0",
+  "description": "`big` resume cli",
+  "main": "index.js",
+  "bin": {
+    "bigcv": "index.js"
+  },
+  "author": "JUO <gjdrift@gmail.com> (http://juo.me)",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "request": "^2.60.0"
+  }
+}
